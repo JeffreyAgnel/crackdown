@@ -1,7 +1,6 @@
 import random
 words=["computer","laptop","windows","destop","python","cpu"]
 word=random.choice(words)
-print(word)
 print("Guess the Character:")
 guesses=''
 turns=6
